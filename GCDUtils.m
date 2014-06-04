@@ -3,7 +3,7 @@
 //  beCherry
 //
 //  Created by Sébastien Orban on 2/05/12.
-//  Copyright (c) 2012 Mondial Telecom. All rights reserved.
+//  Copyright (c) 2012 Random Mechanicals. All rights reserved.
 //
 
 #import "GCDUtils.h"
